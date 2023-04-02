@@ -1,0 +1,6 @@
+Nam X B,HN,1992,10.0
+Nguyen X D,HY,1982,16.0
+Nguyen X A,HN,132,15.0
+Nguyen X loca,HN,1892,14.0
+Nguyen X na,HN,1192,11.0
+Nguyen X puo,HN,1792,13.4
